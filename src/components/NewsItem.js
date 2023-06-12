@@ -19,7 +19,7 @@ export class NewsItem extends Component {
                         </p>
                         <p className="card-text">
                             <small className="text-muted">
-                                By {author != "" && author != null ? author : "Anonymous"} on {new Date(date).toGMTString()}
+                                By {author !== "" && author !== null ? author : "Anonymous"} on {new Date(date).toGMTString()}
                             </small>
                         </p>
                         <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-outline-dark btn-sm rounded-3 border-secondary stretched-link">
