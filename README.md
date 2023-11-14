@@ -3,7 +3,7 @@
 NewsMonkey is a React-based news application that leverages the NewsAPI to provide users with news from various categories. The app is designed to be user-friendly, responsive, and visually appealing, thanks to the integration of Bootstrap for styling.
 
 ## Demo
-![NewsMonkeyDemo](https://github.com/sohamw03/newsapp/assets/102748742/fcee79b1-9537-49cb-86f9-854e6667fcc5)
+<img src="/NewsMonkey (2) (2).gif?raw=true" width="100%">
 
 ## Features
 
